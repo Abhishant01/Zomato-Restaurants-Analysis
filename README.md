@@ -1,5 +1,5 @@
 # Zomato-Restaurants-Analysis
-(As the data file is so large, the repository uses Git LFS for large files.)
+(As the data file is too large, the repository uses Git LFS for large files.)
 
 # 🍽️ Zomato Restaurant Analytics Dashboard
 
