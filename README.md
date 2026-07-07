@@ -82,6 +82,14 @@ The dashboard enables users to explore restaurant insights through dynamic visua
 - Interactive filters
 - Drill-through capabilities
 
+### Page 1 Preview
+<img width="1337" height="742" alt="page 1" src="https://github.com/user-attachments/assets/3eef1573-e1b3-401f-ad53-08e782c26100" />
+
+### Page 2 Preview
+<img width="1336" height="736" alt="page 2" src="https://github.com/user-attachments/assets/d3748631-5f12-4cd0-85fc-d3a9287f3d1b" />
+
+
+
 ---
 
 # 📊 Key KPIs
