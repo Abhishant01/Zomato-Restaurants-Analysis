@@ -122,36 +122,6 @@ to understand customer behavior, optimize pricing strategies, identify growth op
 
 ---
 
-# 📷 Dashboard Preview
-
-> **Add your dashboard screenshots here**
-
-Example:
-
-```
-page 1.png
-page 2.png
-```
-
----
-
-# ▶️ How to Use
-
-1. Clone the repository
-
-```
-git clone https://github.com/Abhishant01/Zomato-Restaurants-Analysis.git
-```
-
-2. Open
-
-```
-zomato_analysis.pbix
-```
-
-using Microsoft Power BI Desktop.
-
----
 
 # 📌 Future Improvements
 
@@ -161,17 +131,5 @@ using Microsoft Power BI Desktop.
 - AI-powered restaurant recommendations
 - Interactive forecasting dashboards
 
----
 
-# 👨‍💻 Author
 
-**Abhishant Kumar**
-
-Mining Engineering Undergraduate | Data Analytics Enthusiast
-
-GitHub:
-https://github.com/Abhishant01
-
----
-
-⭐ If you found this project useful, consider giving it a star!
