@@ -129,7 +129,8 @@ to understand customer behavior, optimize pricing strategies, identify growth op
 Example:
 
 ```
-Dashboard_Overview.png
+page 1.png
+page 2.png
 ```
 
 ---
